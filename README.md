@@ -177,8 +177,6 @@ Coffee-Shop-Sales-Analysis/
 
 📸 Dashboard Preview
 
-Add your dashboard screenshots inside the `Screenshots` folder and display them here.
-
 ```markdown
 ![Dashboard Overview](Screenshots/dashboard_overview.png)
 
